@@ -591,7 +591,11 @@
         <!--HTML-->
 
         <!--XML-->
-        <option name="XML_PROLOGUE" baseAttributes="TEXT"/>
+        <option name="XML_PROLOGUE">
+            <value>
+                <option name="FOREGROUND" value="69bf69"/>
+            </value>
+        </option>
         <option name="XML_TAG" baseAttributes="DEFAULT_TAG"/>
         <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD"/>
         <option name="XML_TAG_DATA" baseAttributes="TEXT"/>
@@ -647,7 +651,7 @@
         <!--Console-->
         <option name="CONSOLE_USER_INPUT">
             <value>
-                <option name="FOREGROUND" value=""/>
+                <option name="FOREGROUND" value="94bf69"/>
             </value>
         </option>
         <option name="CONSOLE_NORMAL_OUTPUT">

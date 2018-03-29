@@ -7,12 +7,6 @@
         <property name="originalScheme">Darcula</property>
     </metaInfo>
 
-    <!--Font-->
-    <option name="FONT_SCALE" value="1.0"/>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono"/>
-    <option name="EDITOR_FONT_SIZE" value="16"/>
-    <!--Font-->
-
     <colors>
         <!--General-->
         <option name="WHITESPACES" value="627362"/>

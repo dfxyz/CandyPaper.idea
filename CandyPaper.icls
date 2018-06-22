@@ -534,17 +534,20 @@
         </option>
         <option name="KOTLIN_SMART_CONSTANT">
             <value>
-                <option name="BACKGROUND" value="2a4d2a"/>
+                <option name="EFFECT_COLOR" value="6b996b"/>
+                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="KOTLIN_SMART_CAST_VALUE">
             <value>
-                <option name="BACKGROUND" value="2a4d2a"/>
+                <option name="EFFECT_COLOR" value="6b996b"/>
+                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <option name="KOTLIN_SMART_CAST_RECEIVER">
             <value>
-                <option name="BACKGROUND" value="2a4d2a"/>
+                <option name="EFFECT_COLOR" value="6b996b"/>
+                <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
         <!--Kotlin-->

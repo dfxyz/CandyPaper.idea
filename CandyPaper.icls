@@ -392,6 +392,12 @@
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value/>
         </option>
+        <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+            <value/>
+        </option>
+        <option name="DEFAULT_REASSIGNED_PARAMETER">
+            <value/>
+        </option>
         <option name="DEFAULT_FUNCTION_CALL">
             <value>
                 <option name="FOREGROUND" value="86a3bf"/>

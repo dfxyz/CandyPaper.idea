@@ -3,7 +3,7 @@
     <property name="created">2019-03-01T10:00:00</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-03-15T20:48:14</property>
+    <property name="modified">2019-04-04T19:10:23</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="a1e6a1" />
@@ -204,7 +204,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="bd3177" />
+        <option name="FOREGROUND" value="bf30bf" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -300,7 +300,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="bd3177" />
+        <option name="FOREGROUND" value="bf30bf" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -445,7 +445,7 @@
     </option>
     <option name="KOTLIN_ENUM_ENTRY">
       <value>
-        <option name="FOREGROUND" value="bf3078" />
+        <option name="FOREGROUND" value="bf30bf" />
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">

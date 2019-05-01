@@ -9,9 +9,8 @@ See also:
 * [CandyPaper.mintty](https://github.com/dfxyz/CandyPaper.mintty) -
     color schemes for mintty
 
-Snapshots:
-
-![General](Snapshots/General.png)
-![Language Default](Snapshots/Language_Default.png)
-![Java](Snapshots/Java.png)
-![XML](Snapshots/XML.png)
+## Preview
+![General](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/General.png)
+![Language Default](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/Language_Default.png)
+![Java](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/Java.png)
+![XML](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/XML.png)

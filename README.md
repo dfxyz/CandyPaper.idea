@@ -1,5 +1,5 @@
 Candy Paper - Light & Dark Color Schemes for IntelliJ IDEA
-===================================================================
+==========================================================
 
 Candy Paper provides light & dark color schemes for IntelliJ IDEA.
 

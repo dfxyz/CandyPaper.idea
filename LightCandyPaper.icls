@@ -3,7 +3,7 @@
     <property name="created">2019-03-01T10:00:00</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-05-02T18:35:52</property>
+    <property name="modified">2019-05-03T11:00:39</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="8fcc8f" />
@@ -11,7 +11,7 @@
     <option name="CARET_COLOR" value="406080" />
     <option name="CARET_ROW_COLOR" value="eff2e6" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fcfff2" />
-    <option name="DELETED_LINES_COLOR" value="979991" />
+    <option name="DELETED_LINES_COLOR" value="cc8f8f" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="d6d9ce" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="cfe6da" />
     <option name="GUTTER_BACKGROUND" value="eff2e6" />
@@ -374,6 +374,11 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="BACKGROUND" value="fff2e6" />
+      </value>
+    </option>
+    <option name="EDITORCONFIG_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cc2929" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">

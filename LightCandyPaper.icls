@@ -3,7 +3,7 @@
     <property name="created">2019-03-01T10:00:00</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-05-03T11:00:39</property>
+    <property name="modified">2019-05-05T13:47:04</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="8fcc8f" />
@@ -19,7 +19,7 @@
     <option name="LINE_NUMBERS_COLOR" value="6b8299" />
     <option name="METHOD_SEPARATORS_COLOR" value="e3e6da" />
     <option name="MODIFIED_LINES_COLOR" value="a1c3e6" />
-    <option name="NOTIFICATION_BACKGROUND" value="fcfff2" />
+    <option name="NOTIFICATION_BACKGROUND" value="eff2e6" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="c9ccc2" />
     <option name="SELECTED_INDENT_GUIDE" value="c9ccc2" />

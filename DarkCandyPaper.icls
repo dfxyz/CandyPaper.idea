@@ -3,7 +3,7 @@
     <property name="created">2019-03-10T10:00:00</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2020-07-06T23:03:20</property>
+    <property name="modified">2020-07-24T20:30:57</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="4d994d" />
@@ -69,7 +69,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="e6e6e6" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -94,12 +94,17 @@
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="4d4d4d" />
+        <option name="FOREGROUND" value="999999" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cc6666" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4d4d4d" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -149,7 +154,7 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e6e6e6" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">

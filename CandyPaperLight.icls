@@ -3,7 +3,7 @@
     <property name="created">2021-12-06T19:37:36</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2021-12-08T16:58:35</property>
+    <property name="modified">2021-12-08T22:23:27</property>
     <property name="originalScheme">Candy Paper Light</property>
   </metaInfo>
   <colors>
@@ -50,6 +50,37 @@
     <option name="BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="ffe0e0" />
+      </value>
+    </option>
+    <option name="BASH.BACKQUOTE">
+      <value>
+        <option name="FOREGROUND" value="108010" />
+      </value>
+    </option>
+    <option name="BASH.CONDITIONAL">
+      <value>
+        <option name="FOREGROUND" value="406080" />
+      </value>
+    </option>
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="BASH.SHEBANG">
+      <value>
+        <option name="FOREGROUND" value="608040" />
+      </value>
+    </option>
+    <option name="BASH.SUBSHELL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="108010" />
+      </value>
+    </option>
+    <option name="BASH.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="406080" />
+      </value>
+    </option>
+    <option name="BASH.VAR_USE">
+      <value>
+        <option name="FOREGROUND" value="c020c0" />
       </value>
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
@@ -432,7 +463,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="GO_BUILTIN_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="108010" />
@@ -497,6 +527,7 @@
         <option name="FOREGROUND" value="8020c0" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="2040c0" />
@@ -561,7 +592,11 @@
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
-    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER" baseAttributes="KOTLIN_PARAMETER" />
+    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="108010" />
+      </value>
+    </option>
     <option name="KOTLIN_CONSTRUCTOR">
       <value>
         <option name="FOREGROUND" value="2040c0" />
@@ -678,6 +713,21 @@
     <option name="List/map to object conversion">
       <value />
     </option>
+    <option name="MARKDOWN_BLOCK_QUOTE_MARKER">
+      <value>
+        <option name="FOREGROUND" value="909a" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HTML_BLOCK">
+      <value>
+        <option name="BACKGROUND" value="d8fff0" />
+      </value>
+    </option>
+    <option name="MARKDOWN_INLINE_HTML">
+      <value>
+        <option name="BACKGROUND" value="d8fff0" />
+      </value>
+    </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff2020" />
@@ -696,6 +746,28 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="108010" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="2040c0" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value />
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value />
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="108010" />
+      </value>
+    </option>
+    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="f09c00" />
@@ -781,6 +853,69 @@
       <value>
         <option name="FOREGROUND" value="cc0000" />
       </value>
+    </option>
+    <option name="XML_PROLOGUE">
+      <value />
+    </option>
+    <option name="org.rust.CFG_DISABLED_CODE">
+      <value>
+        <option name="FOREGROUND" value="609ac0" />
+      </value>
+    </option>
+    <option name="org.rust.DOC_CODE">
+      <value>
+        <option name="FOREGROUND" value="406080" />
+      </value>
+    </option>
+    <option name="org.rust.DOC_EMPHASIS">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.DOC_LINK">
+      <value>
+        <option name="FOREGROUND" value="2040c0" />
+      </value>
+    </option>
+    <option name="org.rust.GENERATED_ITEM">
+      <value>
+        <option name="FOREGROUND" value="707030" />
+      </value>
+    </option>
+    <option name="org.rust.LIFETIME">
+      <value>
+        <option name="FOREGROUND" value="909a" />
+      </value>
+    </option>
+    <option name="org.rust.MACRO">
+      <value>
+        <option name="FOREGROUND" value="c0600a" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_BINDING">
+      <value>
+        <option name="EFFECT_COLOR" value="406080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_PARAMETER">
+      <value>
+        <option name="EFFECT_COLOR" value="406080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="2040c0" />
+      </value>
+    </option>
+    <option name="org.rust.UNSAFE_CODE">
+      <value>
+        <option name="BACKGROUND" value="fff0e8" />
+      </value>
+    </option>
+    <option name="org.rust.VARIABLE">
+      <value />
     </option>
   </attributes>
 </scheme>

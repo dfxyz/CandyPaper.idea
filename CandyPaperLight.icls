@@ -3,27 +3,28 @@
     <property name="created">2021-12-06T19:37:36</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2021-12-07T23:58:48</property>
+    <property name="modified">2021-12-08T11:23:54</property>
     <property name="originalScheme">Candy Paper Light</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="a0cc90" />
+    <option name="ADDED_LINES_COLOR" value="b0dc98" />
     <option name="ANNOTATIONS_COLOR" value="406080" />
     <option name="CARET_COLOR" value="406080" />
     <option name="CARET_ROW_COLOR" value="f0f8e0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fafff0" />
-    <option name="DELETED_LINES_COLOR" value="cc9090" />
+    <option name="DELETED_LINES_COLOR" value="dc9898" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="e0e8d8" />
     <option name="DOC_COMMENT_GUIDE" value="e0e8d8" />
     <option name="DOC_COMMENT_LINK" value="2040c0" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="e0f0e8" />
     <option name="GUTTER_BACKGROUND" value="f0f8e0" />
-    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="a0cc90" />
-    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="cc9090" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7acc50" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="dc9898" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="7ab8f8" />
     <option name="INDENT_GUIDE" value="e0e8d8" />
     <option name="LINE_NUMBERS_COLOR" value="6c809a" />
     <option name="METHOD_SEPARATORS_COLOR" value="c8ccc0" />
-    <option name="MODIFIED_LINES_COLOR" value="a0c8ff" />
+    <option name="MODIFIED_LINES_COLOR" value="accae8" />
     <option name="NOTIFICATION_BACKGROUND" value="ffffcc" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="d8ecff" />
     <option name="RIGHT_MARGIN_COLOR" value="c8ccc0" />
@@ -37,7 +38,7 @@
     <option name="TEARLINE_COLOR" value="c4ccc0" />
     <option name="VISUAL_INDENT_GUIDE" value="e0e8d8" />
     <option name="WHITESPACES" value="6c809a" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d8cc98" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e0d89c" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -376,19 +377,19 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="ffd0cc" />
+        <option name="BACKGROUND" value="ffdcd8" />
         <option name="ERROR_STRIPE_COLOR" value="e0a0a0" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="e8ece0" />
+        <option name="BACKGROUND" value="dce0dc" />
         <option name="ERROR_STRIPE_COLOR" value="acb0a8" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="d8e8d8" />
+        <option name="BACKGROUND" value="daf0da" />
         <option name="ERROR_STRIPE_COLOR" value="90cc90" />
       </value>
     </option>
@@ -406,7 +407,7 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff2020" />
-        <option name="ERROR_STRIPE_COLOR" value="e86060" />
+        <option name="ERROR_STRIPE_COLOR" value="ff2020" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -634,7 +635,7 @@
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="f09c00" />
-        <option name="ERROR_STRIPE_COLOR" value="e86060" />
+        <option name="ERROR_STRIPE_COLOR" value="ff2020" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

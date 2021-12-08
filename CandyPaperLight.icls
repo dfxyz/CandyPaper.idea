@@ -3,7 +3,7 @@
     <property name="created">2021-12-06T19:37:36</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2021-12-08T22:23:27</property>
+    <property name="modified">2021-12-08T23:43:40</property>
     <property name="originalScheme">Candy Paper Light</property>
   </metaInfo>
   <colors>
@@ -58,8 +58,11 @@
       </value>
     </option>
     <option name="BASH.CONDITIONAL">
+      <value />
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="406080" />
+        <option name="FOREGROUND" value="2040c0" />
       </value>
     </option>
     <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
@@ -74,14 +77,7 @@
       </value>
     </option>
     <option name="BASH.VAR_DEF">
-      <value>
-        <option name="FOREGROUND" value="406080" />
-      </value>
-    </option>
-    <option name="BASH.VAR_USE">
-      <value>
-        <option name="FOREGROUND" value="c020c0" />
-      </value>
+      <value />
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
@@ -252,10 +248,24 @@
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Closure braces" baseAttributes="Braces" />
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="2040c0" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="608040" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="2040c0" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="2040c0" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -296,7 +306,9 @@
       <value />
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="c020c0" />
+      </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
       <value>
@@ -305,9 +317,7 @@
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="2040c0" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
@@ -316,6 +326,11 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value />
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="2040c0" />
+      </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
@@ -352,7 +367,9 @@
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="108010" />
+      </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
@@ -728,6 +745,9 @@
         <option name="BACKGROUND" value="d8fff0" />
       </value>
     </option>
+    <option name="MARKDOWN_REFERENCE_LINK">
+      <value />
+    </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff2020" />
@@ -746,11 +766,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME">
+    <option name="PY.ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="108010" />
+        <option name="FOREGROUND" value="2040c0" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="2040c0" />
@@ -768,6 +789,11 @@
       </value>
     </option>
     <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
+    <option name="REGEXP.NAME">
+      <value>
+        <option name="FOREGROUND" value="2040c0" />
+      </value>
+    </option>
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="f09c00" />
@@ -862,6 +888,11 @@
         <option name="FOREGROUND" value="609ac0" />
       </value>
     </option>
+    <option name="org.rust.CRATE">
+      <value>
+        <option name="FOREGROUND" value="2040c0" />
+      </value>
+    </option>
     <option name="org.rust.DOC_CODE">
       <value>
         <option name="FOREGROUND" value="406080" />
@@ -892,6 +923,11 @@
         <option name="FOREGROUND" value="c0600a" />
       </value>
     </option>
+    <option name="org.rust.MODULE">
+      <value>
+        <option name="FOREGROUND" value="2040c0" />
+      </value>
+    </option>
     <option name="org.rust.MUT_BINDING">
       <value>
         <option name="EFFECT_COLOR" value="406080" />
@@ -904,6 +940,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="org.rust.Q_OPERATOR">
+      <value />
+    </option>
     <option name="org.rust.TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="2040c0" />
@@ -913,9 +952,6 @@
       <value>
         <option name="BACKGROUND" value="fff0e8" />
       </value>
-    </option>
-    <option name="org.rust.VARIABLE">
-      <value />
     </option>
   </attributes>
 </scheme>

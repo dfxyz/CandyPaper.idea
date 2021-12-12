@@ -283,7 +283,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="c08040" />
+        <option name="FOREGROUND" value="c0a040" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -340,7 +340,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="c08040" />
+        <option name="FOREGROUND" value="c0a040" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -875,7 +875,7 @@
     </option>
     <option name="org.rust.MACRO">
       <value>
-        <option name="FOREGROUND" value="c08040" />
+        <option name="FOREGROUND" value="c0a040" />
       </value>
     </option>
     <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />

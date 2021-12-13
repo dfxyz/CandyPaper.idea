@@ -3,12 +3,12 @@
     <property name="created">2021-12-09T01:10:40</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2021-12-13T10:29:10</property>
+    <property name="modified">2021-12-13T22:00:00</property>
     <property name="originalScheme">Candy Paper Dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="4c9a4c" />
-    <option name="CARET_COLOR" value="a8aaac" />
+    <option name="CARET_COLOR" value="a0a8ac" />
     <option name="CARET_ROW_COLOR" value="283028" />
     <option name="CONSOLE_BACKGROUND_KEY" value="202820" />
     <option name="DELETED_LINES_COLOR" value="b05a5a" />
@@ -73,29 +73,29 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="a8aaac" />
+        <option name="ERROR_STRIPE_COLOR" value="a0a8ac" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="a8aaac" />
+        <option name="FOREGROUND" value="a0a8ac" />
         <option name="BACKGROUND" value="3c6850" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="a8aaac" />
+        <option name="FOREGROUND" value="a0a8ac" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="a8aaac" />
+        <option name="FOREGROUND" value="a0a8ac" />
         <option name="BACKGROUND" value="3c6850" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="a8aaac" />
+        <option name="FOREGROUND" value="a0a8ac" />
       </value>
     </option>
     <option name="Braces">
@@ -167,7 +167,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a8aaac" />
+        <option name="FOREGROUND" value="a0a8ac" />
       </value>
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
@@ -182,7 +182,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a8aaac" />
+        <option name="FOREGROUND" value="a0a8ac" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -325,7 +325,7 @@
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
       <value>
-        <option name="EFFECT_COLOR" value="a8aaac" />
+        <option name="EFFECT_COLOR" value="a0a8ac" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -380,13 +380,13 @@
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="a8aaac" />
+        <option name="EFFECT_COLOR" value="a0a8ac" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_PARAMETER">
       <value>
-        <option name="EFFECT_COLOR" value="a8aaac" />
+        <option name="EFFECT_COLOR" value="a0a8ac" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -421,14 +421,14 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="787c80" />
-        <option name="EFFECT_COLOR" value="787c80" />
+        <option name="FOREGROUND" value="707a80" />
+        <option name="EFFECT_COLOR" value="707a80" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="a8aaac" />
+        <option name="EFFECT_COLOR" value="a0a8ac" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -470,7 +470,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="787c80" />
+        <option name="FOREGROUND" value="707a80" />
         <option name="BACKGROUND" value="384038" />
       </value>
     </option>
@@ -578,7 +578,7 @@
     </option>
     <option name="HTTP_REQUEST_MULTIPART_BOUNDARY">
       <value>
-        <option name="FOREGROUND" value="787c80" />
+        <option name="FOREGROUND" value="707a80" />
       </value>
     </option>
     <option name="HTTP_REQUEST_PARAMETER_NAME">
@@ -613,7 +613,7 @@
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="a8aaac" />
+        <option name="EFFECT_COLOR" value="a0a8ac" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -637,13 +637,13 @@
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="a8aaac" />
+        <option name="FOREGROUND" value="a0a8ac" />
         <option name="BACKGROUND" value="3c6850" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="a8aaac" />
+        <option name="FOREGROUND" value="a0a8ac" />
         <option name="BACKGROUND" value="404840" />
       </value>
     </option>
@@ -700,7 +700,7 @@
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="a8aaac" />
+        <option name="EFFECT_COLOR" value="a0a8ac" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -835,8 +835,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="787c80" />
-        <option name="EFFECT_COLOR" value="787c80" />
+        <option name="FOREGROUND" value="707a80" />
+        <option name="EFFECT_COLOR" value="707a80" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -846,7 +846,7 @@
     <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="OC.CONDITIONALLY_NOT_COMPILED">
       <value>
-        <option name="FOREGROUND" value="787c80" />
+        <option name="FOREGROUND" value="707a80" />
       </value>
     </option>
     <option name="OC.LABEL">
@@ -960,7 +960,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="a8aaac" />
+        <option name="FOREGROUND" value="a0a8ac" />
         <option name="BACKGROUND" value="202820" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -973,7 +973,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="202820" />
+        <option name="FOREGROUND" value="2c382c" />
         <option name="BACKGROUND" value="acbc00" />
         <option name="ERROR_STRIPE_COLOR" value="80ff" />
       </value>
@@ -1052,7 +1052,7 @@
     </option>
     <option name="org.rust.CFG_DISABLED_CODE">
       <value>
-        <option name="FOREGROUND" value="787c80" />
+        <option name="FOREGROUND" value="707a80" />
       </value>
     </option>
     <option name="org.rust.CRATE">
@@ -1062,7 +1062,7 @@
     </option>
     <option name="org.rust.DOC_CODE">
       <value>
-        <option name="FOREGROUND" value="a8aaac" />
+        <option name="FOREGROUND" value="a0a8ac" />
       </value>
     </option>
     <option name="org.rust.DOC_EMPHASIS">
@@ -1099,13 +1099,13 @@
     </option>
     <option name="org.rust.MUT_BINDING">
       <value>
-        <option name="EFFECT_COLOR" value="a8aaac" />
+        <option name="EFFECT_COLOR" value="a0a8ac" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="org.rust.MUT_PARAMETER">
       <value>
-        <option name="EFFECT_COLOR" value="a8aaac" />
+        <option name="EFFECT_COLOR" value="a0a8ac" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>

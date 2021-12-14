@@ -973,8 +973,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2c382c" />
-        <option name="BACKGROUND" value="acbc00" />
+        <option name="FOREGROUND" value="acbc00" />
         <option name="ERROR_STRIPE_COLOR" value="80ff" />
       </value>
     </option>

@@ -217,13 +217,13 @@
     </option>
     <option name="CSS.COLOR">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
     <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.UNICODE.RANGE">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -255,7 +255,7 @@
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -287,7 +287,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -320,7 +320,7 @@
     <option name="DEFAULT_FUNCTION_DECLARATION" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
@@ -395,7 +395,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
@@ -521,17 +521,17 @@
     </option>
     <option name="GO_PACKAGE_EXPORTED_VARIABLE_CALL">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
     <option name="GO_PACKAGE_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
     <option name="GO_PACKAGE_LOCAL_VARIABLE_CALL">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
     <option name="GO_SHADOWING_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
@@ -562,7 +562,7 @@
     </option>
     <option name="GO_TEMPLATE_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
     <option name="GO_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE" />
@@ -857,7 +857,7 @@
     </option>
     <option name="OC.MACRONAME">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
@@ -950,7 +950,7 @@
     <option name="Static method access" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c08080" />
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
     <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">

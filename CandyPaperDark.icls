@@ -3,7 +3,7 @@
     <property name="created">2021-12-09T01:10:40</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2021-12-13T22:00:00</property>
+    <property name="modified">2021-12-19T14:50:00</property>
     <property name="originalScheme">Candy Paper Dark</property>
   </metaInfo>
   <colors>
@@ -22,7 +22,7 @@
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="5a80b0" />
     <option name="INDENT_GUIDE" value="303830" />
     <option name="LINE_NUMBERS_COLOR" value="687068" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="a0a8ac" />
     <option name="METHOD_SEPARATORS_COLOR" value="404840" />
     <option name="MODIFIED_LINES_COLOR" value="5a80b0" />
     <option name="NOTIFICATION_BACKGROUND" value="485028" />
@@ -307,9 +307,7 @@
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
-      <value>
-        <option name="BACKGROUND" value="c4040" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
@@ -805,6 +803,36 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="98ac38" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="98ac38" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="98ac38" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="98ac38" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_5">
+      <value>
+        <option name="FOREGROUND" value="98ac38" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_6">
+      <value>
+        <option name="FOREGROUND" value="98ac38" />
+      </value>
+    </option>
     <option name="MARKDOWN_HTML_BLOCK">
       <value>
         <option name="BACKGROUND" value="c4040" />
@@ -931,6 +959,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="a0a8ac" />
         <option name="BACKGROUND" value="403070" />
         <option name="ERROR_STRIPE_COLOR" value="6c5ab0" />
       </value>
@@ -967,6 +996,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="a0a8ac" />
         <option name="BACKGROUND" value="204c20" />
         <option name="ERROR_STRIPE_COLOR" value="a000" />
       </value>
@@ -1119,6 +1149,11 @@
     <option name="org.rust.UNSAFE_CODE">
       <value>
         <option name="BACKGROUND" value="4c4040" />
+      </value>
+    </option>
+    <option name="org.toml.BOOLEAN">
+      <value>
+        <option name="FOREGROUND" value="c080a0" />
       </value>
     </option>
   </attributes>

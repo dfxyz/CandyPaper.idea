@@ -10,7 +10,7 @@ See also:
     color schemes for mintty
 
 ## Preview
-![General](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/General.png)
-![Language Default](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/Language_Default.png)
-![Java](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/Java.png)
-![XML](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/XML.png)
+![General](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/v1/General.png)
+![Language Default](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/v1/Language_Default.png)
+![Java](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/v1/Java.png)
+![XML](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/v1/XML.png)

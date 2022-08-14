@@ -2,9 +2,9 @@
 Light and dark color schemes for Jetbrains' IDEs.
 
 Compatible IDEs:
-* IntelliJ Idea
+* IntelliJ IDEA
+* Android Studio
 * PyCharm
-* CLion
 * GoLand
 
 See [CandyPaper](https://github.com/dfxyz/CandyPaper), color schemes for other software.

@@ -1,14 +1,26 @@
 # CandyPaper.idea
 Light and dark color schemes for Jetbrains' IDEs.
 
-Compatible IDEs:
-* IntelliJ Idea
-* PyCharm
-* CLion
+Supported Languages:
+* Java / Kotlin / Groovy
+* C/C++
+* Rust
+* Python
+* Go
+* JavaScript / TypeScript
+* Shell
+* Dart
+
+Tweaked with:
+* IntelliJ IDEA
+* Android Studio
 * GoLand
 
-See [CandyPaper](https://github.com/dfxyz/CandyPaper), color schemes for other software.
+See [CandyPaper](https://github.com/dfxyz/CandyPaper), color schemes for other applications.
 
 ## Preview
-![General](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/v2/general.png)
-![Language Default](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/v2/language_default.png)
+![Example1](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/v3/example1.png)
+
+![Example2](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/v3/example2.png)
+
+![Example3](https://raw.githubusercontent.com/dfxyz/CandyPaper.idea/screenshot/v3/example3.png)

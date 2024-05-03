@@ -5,7 +5,7 @@
     <property name="created">2024-05-03T12:52:50+0800</property>
     <property name="modified">2024-05-03T12:52:50+0800</property>
   </metaInfo>
-  <color>
+  <colors>
     <option name="FOLDED_TEXT_BORDER_COLOR" value="ACE6C9"/>
     <option name="SOFT_WRAP_SIGN_COLOR" value="406080"/>
     <option name="WHITESPACES" value="608FBF"/>
@@ -34,7 +34,7 @@
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="008000"/>
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="0060BF"/>
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="CC5252"/>
-  </color>
+  </colors>
   <attributes>
     <option name="TEXT">
       <value>
